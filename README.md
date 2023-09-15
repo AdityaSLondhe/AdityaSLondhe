@@ -1,6 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Aditya Londhe</h1>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.mp4" alt="codingminds" width="100%" height="100%" align="center"/>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+<h3 align="center">Student at Pune Institute of Computer Technology</h3>
 <!--
 **AdityaSLondhe/AdityaSLondhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
